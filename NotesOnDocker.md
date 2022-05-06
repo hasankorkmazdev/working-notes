@@ -10,7 +10,7 @@ docker image ls
 ```
 
 ```ps 
-docker build -t <Docker Image Name> .
+docker build -t <Docker-Image-Name> .
 ``` 
 Docker build ile Image Oluşturma
 
